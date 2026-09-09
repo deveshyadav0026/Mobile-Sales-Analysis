@@ -1,4 +1,4 @@
-# Vivo Mobile Sales Analysis Dashboard (Python & Power BI)
+# Vivo Mobile Sales Analysis (SQL & Power BI)
 
 ## Project Overview
 This project demonstrates an end-to-end data analytics solution created to track sales performance for **Vivo Mobile** in the Indian market.
@@ -57,10 +57,10 @@ This dashboard provides answers to critical business questions, such as:
 ## How to Use
 1.  **Clone the Repository:**
     Download the files to your local machine.
-2.  **Generate Fresh Data (Optional):**
-    If you have Python installed, run `data_generator.py` to create a new `5k_vivo_transactions.csv` file with different random values.
+2.  **Open the SQl file in mysql:**
+    If you have MySQL installed, run `mobile_sales_analysis.sql` to analysis the data.
 3.  **Open in Power BI:**
-    Open the `Vivo_Sales_Dashboard.pbix` file. If you generated new data, click "Refresh" in Power BI to load the new numbers.
+    Open the `Vivo_Sales_Dashboard.pbix` file. If you downloaded new data, click "Refresh" in Power BI to load the new numbers.
 4.  **Interact:**
     Use the City slicers and Month selectors to filter the data and uncover insights.
 
